@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/industrial_evolution.iml" filepath="$PROJECT_DIR$/industrial_evolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/industrial_evolution_api.iml" filepath="$PROJECT_DIR$/.idea/modules/industrial_evolution_api.iml" group="industrial_evolution" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/industrial_evolution_main.iml" filepath="$PROJECT_DIR$/.idea/modules/industrial_evolution_main.iml" group="industrial_evolution" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/industrial_evolution_test.iml" filepath="$PROJECT_DIR$/.idea/modules/industrial_evolution_test.iml" group="industrial_evolution" />
+    </modules>
+  </component>
+</project>
